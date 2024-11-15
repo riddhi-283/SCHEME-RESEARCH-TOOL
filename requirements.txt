@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain_openai
+langchain-core
+langchain_community
+ipykernel
+openai
+python-dotenv
+unstructured
+faiss-cpu
+streamlit
+pypdf2
